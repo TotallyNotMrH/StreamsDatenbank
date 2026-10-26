@@ -35,7 +35,7 @@ public class EventAufgaben {
     public static void aufgabe2_DurchschnittTeilnehmerBarrierefrei(List<Event> events) {
         // TODO: Stream implementieren
 
-
+        //TODO Zusatz: Nutzer über Ergebnis informieren
     }
 
     /**
@@ -78,5 +78,6 @@ public class EventAufgaben {
     public static void aufgabe6_ProzentAnteilBarrierefrei(List<Event> events) {
         // TODO: Stream implementieren
 
+        //TODO Zusatz: Nutzer über Ergebnis informieren
     }
 }
